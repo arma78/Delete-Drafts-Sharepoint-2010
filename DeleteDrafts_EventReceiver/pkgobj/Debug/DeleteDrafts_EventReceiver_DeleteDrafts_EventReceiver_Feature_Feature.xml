@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="Event Handler on &quot;Reviw files&quot; document library using itemAdded event to delete draft files&#xD;&#xA;Delete files from &quot;Review Files&quot;  document library filtered based on specific view." Id="e9c7424b-78d1-49c9-82b5-87fca16cbbfb" Scope="Web" Title="DeleteDrafts_EventReceiver Feature">
+  <ElementManifests>
+    <ElementManifest Location="DeleteDrafts_EventReceiver\Elements.xml" />
+  </ElementManifests>
+</Feature>

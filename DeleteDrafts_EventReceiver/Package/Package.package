@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="67d39af1-4255-455b-8221-4b9dfa7e6018" solutionId="67d39af1-4255-455b-8221-4b9dfa7e6018" resetWebServer="false" name="DeleteDrafts_EventReceiver" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="bc836910-67a7-4709-88ae-e6593d8eee25" />
+  </features>
+</package>

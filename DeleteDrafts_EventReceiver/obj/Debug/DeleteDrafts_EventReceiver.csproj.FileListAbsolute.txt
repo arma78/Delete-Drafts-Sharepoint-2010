@@ -1,0 +1,6 @@
+C:\Users\Armin.Razic\documents\visual studio 2010\Projects\DeleteDrafts_EventReceiver\DeleteDrafts_EventReceiver\bin\Debug\DeleteDrafts_EventReceiver.dll
+C:\Users\Armin.Razic\documents\visual studio 2010\Projects\DeleteDrafts_EventReceiver\DeleteDrafts_EventReceiver\bin\Debug\DeleteDrafts_EventReceiver.pdb
+C:\Users\Armin.Razic\documents\visual studio 2010\Projects\DeleteDrafts_EventReceiver\DeleteDrafts_EventReceiver\bin\Debug\Microsoft.Sharepoint.Sandbox.dll
+C:\Users\Armin.Razic\documents\visual studio 2010\Projects\DeleteDrafts_EventReceiver\DeleteDrafts_EventReceiver\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Armin.Razic\documents\visual studio 2010\Projects\DeleteDrafts_EventReceiver\DeleteDrafts_EventReceiver\obj\Debug\DeleteDrafts_EventReceiver.dll
+C:\Users\Armin.Razic\documents\visual studio 2010\Projects\DeleteDrafts_EventReceiver\DeleteDrafts_EventReceiver\obj\Debug\DeleteDrafts_EventReceiver.pdb

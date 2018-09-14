@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <Elements xmlns="http://schemas.microsoft.com/sharepoint/">     
+      <Receivers ListUrl="TSC/ReviewDocs">        
+      <Receiver>
+      <Name>DeleteDrafts_EventReceiverItemAdded</Name>
+      <Type>ItemAdded</Type>
+      <Assembly>DeleteDrafts_EventReceiver, Version=1.0.0.0, Culture=neutral, PublicKeyToken=ad7c01c9e2f4104d</Assembly>
+      <Class>DeleteDrafts_EventReceiver.DeleteDrafts_EventReceiver.DeleteDrafts_EventReceiver</Class>
+      <SequenceNumber>10000</SequenceNumber>
+    </Receiver>
+  </Receivers>
+</Elements>

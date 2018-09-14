@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="67d39af1-4255-455b-8221-4b9dfa7e6018" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="DeleteDrafts_EventReceiver.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="DeleteDrafts_EventReceiver_DeleteDrafts_EventReceiver_Feature\Feature.xml" />
+  </FeatureManifests>
+</Solution>
